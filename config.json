@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configctringify",
+        "uuid": 13936780,
+        "checksum": "flehbs"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
